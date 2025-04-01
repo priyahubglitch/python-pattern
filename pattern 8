@@ -14,3 +14,9 @@ for i in rnage(n):
 for j in range(i,n):
 print("*",end=" ")
 print()
+
+pattern 11
+n = 5
+for i in range(n):
+print(' ' * i,end="")
+print('*' *(2 *(n-i)-1)) reverse pattern with respective to n
