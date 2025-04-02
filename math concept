@@ -1,5 +1,5 @@
 Reverse a number
-n = 5432
+n = 325345
 revnum = 0
 while n > 0:
 l = n%10
